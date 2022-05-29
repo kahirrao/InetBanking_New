@@ -252,3 +252,15 @@
 2022-05-28 13:17:35,349 [main] INFO ebanking - Login test passed
 2022-05-28 13:17:37,635 [main] INFO ebanking - User click on Logout Button
 2022-05-28 13:17:40,298 [main] WARN ebanking - Test Passed
+2022-05-29 16:04:12,497 [main] INFO ebanking - URL is opened
+2022-05-29 16:04:12,858 [main] INFO ebanking - Entered username
+2022-05-29 16:04:13,127 [main] INFO ebanking - Entered password
+2022-05-29 16:04:16,001 [main] INFO ebanking - Login test passed
+2022-05-29 16:04:18,342 [main] INFO ebanking - User click on Logout Button
+2022-05-29 16:04:20,974 [main] WARN ebanking - Test Passed
+2022-05-29 16:04:58,259 [main] INFO ebanking - URL is opened
+2022-05-29 16:04:58,720 [main] INFO ebanking - Entered username
+2022-05-29 16:04:59,296 [main] INFO ebanking - Entered password
+2022-05-29 16:05:02,082 [main] INFO ebanking - Login test passed
+2022-05-29 16:05:03,909 [main] INFO ebanking - User click on Logout Button
+2022-05-29 16:05:06,139 [main] WARN ebanking - Test Passed

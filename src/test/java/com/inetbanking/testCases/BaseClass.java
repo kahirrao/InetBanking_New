@@ -40,7 +40,7 @@ public class BaseClass {
 	public void setup(String br) {
 		logger = Logger.getLogger("ebanking");
 		PropertyConfigurator.configure("Log4j.properties");
-
+         
 		if (br.equals("chrome")) {
 			System.setProperty("webdriver.chrome.driver", readconfig.getChromePath());
 			driver = new ChromeDriver();
